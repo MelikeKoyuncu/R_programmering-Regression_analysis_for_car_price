@@ -1,0 +1,215 @@
+,Miltal,Modellår,Biltyp,Drivning,Hästkrafter,Färg,Datum i trafik,Märke,Modell,Pris,Län
+0,2000.0,2021,Kombi,Tvåhjulsdriven,204,Svart,2021-08-03,Skoda,Enyaq,480000,Göteborg
+1,1.0,2023,Halvkombi,Tvåhjulsdriven,204,Grå,,BYD,Dolphin,319900,Göteborg
+2,1.0,2023,Halvkombi,Tvåhjulsdriven,204,Gul,,BYD,Dolphin,319900,Göteborg
+3,1.0,2023,Halvkombi,Tvåhjulsdriven,204,Grå,,BYD,Dolphin,319900,Göteborg
+4,5658.0,2020,SUV,Tvåhjulsdriven,143,Vit,2020-12-05,Mazda,MX-30,209800,Göteborg
+5,7230.0,2020,Sedan,Tvåhjulsdriven,170,Vit,2020-06-22,BMW,i3,209900,Göteborg
+6,2630.0,2022,Halvkombi,Tvåhjulsdriven,184,Grå,2022-03-30,BMW,i3s,279900,Göteborg
+7,,2024,Halvkombi,,204,,,Volkswagen,ID.3,512900,Göteborg
+8,0.0,2023,SUV,Tvåhjulsdriven,204,Vit,2024-02-29,Volkswagen,ID.5,499900,Göteborg
+9,10.0,2023,Halvkombi,Tvåhjulsdriven,207,Grå,2023-08-31,Volkswagen,ID.3,424900,Göteborg
+10,2150.0,2021,Halvkombi,Tvåhjulsdriven,119,Vit,2021-08-06,Fiat,500E,219900,Göteborg
+11,4244.0,2021,SUV,Fyrhjulsdriven,361,Röd,2020-12-11,Audi,E-Tron,634900,Göteborg
+12,6898.0,2020,SUV,Tvåhjulsdriven,204,Svart,2020-09-03,Kia,E-Niro,299900,Göteborg
+13,1362.0,2024,SUV,Fyrhjulsdriven,414,Vit,2023-03-08,Audi,Q8,979000,Göteborg
+14,1.0,2024,SUV,Fyrhjulsdriven,300,Mörkröd,2024-02-29,Volkswagen,ID.4,648999,Göteborg
+15,6041.0,2022,Halvkombi,Tvåhjulsdriven,111,Svart,2021-12-30,Renault,Zoe,199900,Göteborg
+16,4499.0,2022,SUV,Tvåhjulsdriven,180,Vit,2021-10-21,Skoda,Enyaq iV,389800,Göteborg
+17,5950.0,2022,SUV,Fyrhjulsdriven,414,Grå,2021-12-15,Audi,E-Tron,724000,Göteborg
+18,1355.0,2023,SUV,Fyrhjulsdriven,304,Vit,2023-03-28,Volkswagen,ID.4,489900,Göteborg
+19,3515.0,2021,Halvkombi,Tvåhjulsdriven,207,Grå,2021-03-05,Volkswagen,ID.3,289900,Göteborg
+20,1100.0,2023,SUV,Fyrhjulsdriven,514,Vit,2023-09-26,Tesla,Model Y,569000,Göteborg
+21,4912.0,2020,Halvkombi,Tvåhjulsdriven,136,Vit,2022-02-07,Volkswagen,Golf,197900,Göteborg
+22,5296.0,2022,Kombi,Fyrhjulsdriven,346,Grå,2022-02-18,Tesla,Model Y,499900,Göteborg
+23,6962.0,2020,SUV,Fyrhjulsdriven,317,Svart,2020-08-04,Audi,E-Tron,399000,Göteborg
+24,6245.0,2021,Halvkombi,Tvåhjulsdriven,207,Mörkgrå,2020-11-16,Volkswagen,ID.3,289900,Göteborg
+25,2651.0,2020,Halvkombi,Tvåhjulsdriven,83,Silver,2020-12-22,Skoda,Citigo,189800,Göteborg
+26,3870.0,2022,SUV,Tvåhjulsdriven,218,Grön,2021-12-16,Hyundai,IONIQ 5,448900,Göteborg
+27,1900.0,2021,SUV,Tvåhjulsdriven,136,Grå,2021-11-30,Peugeot,e-2008,279900,Göteborg
+28,2940.0,2022,Halvkombi,Tvåhjulsdriven,150,Grå,2022-03-23,Nissan,Leaf,259900,Göteborg
+29,1.0,2024,SUV,Tvåhjulsdriven,207,Vit,,Toyota,bZ4X,570900,Göteborg
+30,5530.0,2020,SUV,Tvåhjulsdriven,143,Röd,2021-10-15,MG,ZS,199900,Göteborg
+31,1300.0,2020,SUV,Tvåhjulsdriven,143,Blå,2021-10-11,MG,ZS,199900,Göteborg
+32,7538.0,2021,Halvkombi,Tvåhjulsdriven,204,Grå,2020-12-09,Volkswagen,ID.3,249000,Dalarna
+33,0.0,2024,SUV,Tvåhjulsdriven,256,Svart,,Volvo,C40,591700,Dalarna
+34,6001.0,2021,SUV,Tvåhjulsdriven,204,Grå,2021-06-08,Kia,E-Niro,289000,Dalarna
+35,2716.0,2022,SUV,Tvåhjulsdriven,183,Blå,2021-08-30,Skoda,Enyaq iV,369500,Dalarna
+36,5718.0,2021,Halvkombi,Tvåhjulsdriven,207,Grå,2021-12-23,Volkswagen,ID.3,289900,Dalarna
+37,0.0,2023,Kombi,Tvåhjulsdriven,207,Blå,,Volkswagen,ID.,637675,Dalarna
+38,5606.0,2021,Halvkombi,Tvåhjulsdriven,207,Svart,2020-12-23,Volkswagen,ID.3,289000,Dalarna
+39,1.0,2024,SUV,Fyrhjulsdriven,304,Vit,2024-02-28,Volkswagen,ID.4,609900,Dalarna
+40,1.0,2023,SUV,Fyrhjulsdriven,304,Mörkröd,2024-02-28,Volkswagen,ID.4,639900,Dalarna
+41,4800.0,2022,Halvkombi,Tvåhjulsdriven,293,Silver,2022-04-29,Mercedes-Benz,EQS,789000,Dalarna
+42,0.0,2023,SUV,Tvåhjulsdriven,204,Röd,2023-12-18,Kia,E-SOUL,459000,Dalarna
+43,4200.0,2021,Halvkombi,Tvåhjulsdriven,207,Vit,2020-12-28,Volkswagen,ID.3,290000,Dalarna
+44,748.0,2023,Kombi,Tvåhjulsdriven,207,Flerfärgad,2022-11-08,Volkswagen,ID.,549000,Dalarna
+45,377.0,2023,SUV,Tvåhjulsdriven,204,Vit,2023-05-31,Kia,Niro,408000,Dalarna
+46,0.0,2024,Halvkombi,Tvåhjulsdriven,207,Svart,,Volkswagen,ID.3,460000,Dalarna
+47,5267.0,2020,Halvkombi,Tvåhjulsdriven,136,Grå,2020-01-29,Volkswagen,E-Golf,199000,Dalarna
+48,337.0,2023,SUV,Fyrhjulsdriven,585,Svart,2023-01-30,Kia,EV6,679000,Dalarna
+49,8830.0,2018,Halvkombi,Tvåhjulsdriven,136,Ljusgrå,2017-12-13,Volkswagen,Golf,184900,Dalarna
+50,858.0,2022,SUV,Tvåhjulsdriven,207,Grå,2023-05-29,Skoda,Enyaq iV,524500,Dalarna
+51,1.0,2024,SUV,Fyrhjulsdriven,304,Vit,2024-02-28,Volkswagen,ID.4,574900,Dalarna
+52,3850.0,2020,SUV,Tvåhjulsdriven,204,Grå,2021-03-26,Kia,E-Niro,314000,Dalarna
+53,1410.0,2023,SUV,Fyrhjulsdriven,304,Vit,2023-04-28,Volkswagen,ID.5,599000,Dalarna
+54,0.0,2024,SUV,Tvåhjulsdriven,207,Svart,,Audi,Q4,702000,Dalarna
+55,5347.0,2021,SUV,Tvåhjulsdriven,207,Silver,2021-07-05,Skoda,Enyaq iV,439900,Dalarna
+56,2988.0,2022,Halvkombi,Tvåhjulsdriven,151,Vit,2022-03-31,Nissan,Leaf,219000,Dalarna
+57,652.0,2022,Halvkombi,Tvåhjulsdriven,151,Vit,2022-11-16,Nissan,Leaf,269000,Dalarna
+58,6646.0,2020,Sedan,Fyrhjulsdriven,510,Vit,2020-09-15,Tesla,Model 3,439000,Dalarna
+59,13845.0,2017,SUV,Fyrhjulsdriven,423,Grå,2017-11-16,Tesla,Model X,469000,Dalarna
+60,3071.0,2021,SUV,Fyrhjulsdriven,414,Silver,2021-05-04,Volvo,XC40,509000,Dalarna
+61,349.0,2023,Halvkombi,Tvåhjulsdriven,207,Grå,2023-08-29,Volkswagen,ID.3,389000,Dalarna
+62,11500.0,2019,Sedan,Fyrhjulsdriven,517,Blå,2019-03-11,Tesla,Model 3,349000,Dalarna
+63,0.0,2024,Halvkombi,Tvåhjulsdriven,290,Vit,,Volkswagen,ID.7,741400,Dalarna
+64,11290.0,2021,SUV,Fyrhjulsdriven,355,Grå,2021-10-27,Ford,Mustang,429500,Dalarna
+65,1.0,2022,SUV,Tvåhjulsdriven,207,Blå,2023-03-29,Volkswagen,ID.4,469900,Dalarna
+66,10.0,2023,SUV,Fyrhjulsdriven,304,Grå,2024-01-31,Skoda,Enyaq,669000,STOCKHOLM
+67,1380.0,2023,SUV,Tvåhjulsdriven,229,Grå,2022-11-23,Kia,EV6,469900,STOCKHOLM
+68,1861.0,2022,SUV,Tvåhjulsdriven,207,Grå,2021-11-29,Volkswagen,ID.4,419900,STOCKHOLM
+69,638.0,2023,Kombi,Fyrhjulsdriven,272,Blå,2023-08-30,BMW,iX1,638700,STOCKHOLM
+70,1426.0,2023,SUV,Fyrhjulsdriven,414,Grön,2022-12-07,Volvo,C40,499900,STOCKHOLM
+71,108.0,2022,Halvkombi,Tvåhjulsdriven,234,Grå,2021-10-04,Polestar,2,464900,STOCKHOLM
+72,5590.0,2022,Halvkombi,Tvåhjulsdriven,234,Vit,2021-11-08,Polestar,2,419900,STOCKHOLM
+73,7461.0,2022,Halvkombi,Tvåhjulsdriven,235,Vit,2021-11-08,Polestar,2,419900,STOCKHOLM
+74,435.0,2022,Sedan,Fyrhjulsdriven,607,Grå,2023-02-28,Audi,E-Tron,1299000,STOCKHOLM
+75,3297.0,2020,Halvkombi,Tvåhjulsdriven,138,Blå,2020-12-28,Renault,Zoe,204900,STOCKHOLM
+76,3133.0,2020,Halvkombi,Tvåhjulsdriven,170,Vit,2020-07-06,BMW,i3,228900,STOCKHOLM
+77,7575.0,2021,Sedan,Fyrhjulsdriven,441,Vit,2020-12-29,Tesla,Model 3,398900,STOCKHOLM
+78,1832.0,2023,SUV,Fyrhjulsdriven,304,Svart,2023-04-12,Volkswagen,ID.5,534900,STOCKHOLM
+79,4220.0,2022,SUV,Fyrhjulsdriven,414,Grön,2022-03-16,Volvo,C40,469900,STOCKHOLM
+80,5118.0,2022,Halvkombi,Tvåhjulsdriven,234,Blå,2022-06-07,Polestar,2,448900,STOCKHOLM
+81,4427.0,2020,Drivning,Tvåhjulsdriven,138,Grå,2020-11-25,Renault,Zoe,189900,STOCKHOLM
+82,1438.0,2021,Kombi,Tvåhjulsdriven,204,Grön,2021-03-17,Lexus,UX,309000,STOCKHOLM
+83,5650.0,2018,Halvkombi,Fyrhjulsdriven,762,Grå,2018-03-22,Tesla,Model S,529000,STOCKHOLM
+84,5108.0,2020,Halvkombi,Tvåhjulsdriven,184,Blå,2019-12-20,BMW,i3,219000,STOCKHOLM
+85,0.0,2024,SUV,Fyrhjulsdriven,286,Grön,,Skoda,Enyaq,599900,STOCKHOLM
+86,6431.0,2022,SUV,Tvåhjulsdriven,234,Vit,2022-03-03,Volvo,XC40,439000,STOCKHOLM
+87,632.0,2023,SUV,Fyrhjulsdriven,304,Svart,2023-04-26,Skoda,Enyaq,554900,STOCKHOLM
+88,4004.0,2021,SUV,Tvåhjulsdriven,207,Silver,2021-06-18,Skoda,Enyaq iV,485000,STOCKHOLM
+89,4000.0,2021,Halvkombi,Tvåhjulsdriven,150,Blå,,Nissan,Leaf,219900,STOCKHOLM
+90,3870.0,2021,Sedan,Fyrhjulsdriven,513,Svart,2021-03-31,Tesla,Model 3,448900,STOCKHOLM
+91,3166.0,2021,Sedan,Fyrhjulsdriven,513,Grå,2021-03-23,Tesla,Model 4,459800,STOCKHOLM
+92,3737.0,2020,Kombi,Tvåhjulsdriven,136,Blå,2020-09-25,Peugeot,e-2008,244700,STOCKHOLM
+93,0.0,2024,SUV,Fyrhjulsdriven,384,Grå,,Kia,EV9,807900,STOCKHOLM
+94,12807.0,2019,Sedan,Fyrhjulsdriven,441,Blå,2019-03-31,Tesla,Model 3,318900,STOCKHOLM
+95,2902.0,2021,Kombi,Tvåhjulsdriven,136,Vit,2022-03-05,Peugeot,e-2008,249900,STOCKHOLM
+96,8079.0,2022,SUV,Fyrhjulsdriven,346,Vit,2022-03-04,Tesla,Model Y,488900,STOCKHOLM
+97,0.0,2024,SUV,,191,,,Mercedes-Benz,EQA,601197,El
+98,8227.0,2014,Halvkombi,Tvåhjulsdriven,109,Silver,2014-06-27,Nissan,Leaf,109800,EL
+99,1300.0,2022,SUV,Tvåhjulsdriven,207,Svart,2022-09-29,Skoda,Enyaq iV,499900,EL
+101,374.0,2024,Sedan,Tvåhjulsdriven,252,Grå,2023-09-15,Volvo,C40,599000,EL
+102,978.0,2021,Halvkombi,Tvåhjulsdriven,109,Vit,2021-07-23,Renault,Zoe,239000,EL
+103,2072.0,2021,Halvkombi,Tvåhjulsdriven,110,Vit,2021-07-24,Renault,Zoe,239000,EL
+104,5.0,2024,SUV,Fyrhjulsdriven,218,Vit,,Toyota,bZ4X,643800,EL
+105,1030.0,2021,Halvkombi,Tvåhjulsdriven,109,Vit,2021-07-23,Renault,Zoe,239000,EL
+107,3480.0,2021,SUV,Fyrhjulsdriven,408,Grå,2020-10-22,Mercedes-Benz,EQC,619000,EL
+108,0.0,2024,Sedan,Fyrhjulsdriven,429,Ljusblå,,Volvo,EX30,599000,EL
+109,0.0,2024,Sedan,Tvåhjulsdriven,272,Svart,,Volvo,EX30,529000,EL
+111,400.0,2024,SUV,Tvåhjulsdriven,218,Blå,2023-11-06,Hyundai,Kona,525000,EL
+112,872.0,2019,Halvkombi,Tvåhjulsdriven,218,Vit,2019-12-20,Nissan,Leaf,279000,EL
+113,0.0,2024,Halvkombi,Tvåhjulsdriven,290,Blå,,Volkswagen,ID.7,730900,EL
+114,6934.0,2019,Halvkombi,Tvåhjulsdriven,120,Mörkblå (Mblå),2019-03-28,Hyundai,IONIQ,209000,EL
+115,5.0,2023,Yrkesfordon,Tvåhjulsdriven,136,Vit,2023-10-30,Toyota,ProAce,619000,EL
+116,400.0,2023,Yrkesfordon,Tvåhjulsdriven,137,Silver,2023-10-31,Toyota,ProAce,469000,EL
+117,8355.0,2021,Halvkombi,Tvåhjulsdriven,136,Röd,2021-01-26,Kia,E-SOUL,229000,EL
+118,3300.0,2021,Halvkombi,Tvåhjulsdriven,207,Vit,2020-11-26,Volkswagen,ID.3,329000,EL
+119,914.0,2021,SUV,Tvåhjulsdriven,177,Vit,2022-08-18,Maxus,Euniq,399000,EL
+120,3476.0,2022,Halvkombi,Tvåhjulsdriven,204,Blå,2021-12-18,Kia,E-SOUL,359000,EL
+121,4866.0,2021,Sedan,Fyrhjulsdriven,408,Vit,2020-11-26,Volvo,XC40,509000,EL
+122,1880.0,2021,Sedan,Fyrhjulsdriven,372,Vit,2021-07-08,Ford,Mustang,649000,EL
+124,1.0,2023,Halvkombi,Tvåhjulsdriven,202,Silver,2023-09-14,Volkswagen,ID.3,539900,EL
+125,7852.0,2018,Halvkombi,Tvåhjulsdriven,150,Brun,2018-11-30,Nissan,Leaf,199000,EL
+126,2.0,2023,Halvkombi,Tvåhjulsdriven,204,Grön,,Volkswagen,ID.3,524900,EL
+127,1.0,2023,SUV,Tvåhjulsdriven,204,Grå,,Volkswagen,ID.5,569900,EL
+128,2487.0,2023,Sedan,Fyrhjulsdriven,408,Röd,2023-01-11,Volvo,C40,519900,Örebro
+129,0.0,2024,Sedan,Tvåhjulsdriven,252,Silver,,Volvo,C40,636900,Örebro
+130,4456.0,2023,Sedan,Tvåhjulsdriven,232,Vit,2022-12-09,Volvo,C40,429900,Örebro
+131,0.0,2023,SUV,Tvåhjulsdriven,234,Svart,,Volvo,C40,529000,Örebro
+132,0.0,2024,Sedan,Tvåhjulsdriven,252,Blå,,Volvo,C40,653900,Örebro
+133,0.0,2024,Sedan,Tvåhjulsdriven,252,Svart,,Volvo,C40,596700,Örebro
+134,623.0,2024,Sedan,Fyrhjulsdriven,408,Silver,2023-10-13,Volvo,C40,614900,Örebro
+135,2919.0,2022,Sedan,Fyrhjulsdriven,408,Röd,2021-11-29,Volvo,C40,494900,Örebro
+136,0.0,2024,Sedan,Tvåhjulsdriven,252,Vit,,Volvo,XC40,614900,Örebro
+137,0.0,2024,SUV,Tvåhjulsdriven,256,Blå,,Volvo,C40,629900,Örebro
+138,0.0,2024,Sedan,Fyrhjulsdriven,408,Röd,,Volvo,C40,708900,Örebro
+139,0.0,2024,Halvkombi,Fyrhjulsdriven,429,Ljusblå,,Volvo,EX30,599900,Örebro
+140,0.0,2024,SUV,Tvåhjulsdriven,275,Svart,,Volvo,EX30,559000,Örebro
+141,0.0,2024,Halvkombi,Fyrhjulsdriven,429,Ljusblå,,Volvo,EX30,599900,Örebro
+142,0.0,2024,Sedan,Fyrhjulsdriven,408,Röd,,Volvo,C40,659900,Örebro
+143,4400.0,2020,SUV,Tvåhjulsdriven,143,Vit,2020-09-29,Mazda,MX-30,199900,Örebro
+144,2900.0,2021,SUV,Tvåhjulsdriven,143,Röd,2020-09-30,Mazda,MX-30,249500,Örebro
+145,0.0,2023,SUV,Tvåhjulsdriven,146,Grå,,Mazda,MX-30,349900,Örebro
+146,8946.0,2020,Halvkombi,Tvåhjulsdriven,204,Vit,2020-06-02,Kia,E-SOUL,248900,Örebro
+147,2000.0,2022,SUV,Fyrhjulsdriven,330,Grå,2021-11-29,Kia,EV6,629000,Örebro
+148,8322.0,2021,SUV,Tvåhjulsdriven,204,Vit,2021-03-10,Kia,E-Niro,288900,Örebro
+150,2919.0,2019,SUV,Tvåhjulsdriven,204,Röd,2020-02-03,Kia,E-Niro,279900,Örebro
+151,4442.0,2021,Halvkombi,Tvåhjulsdriven,204,Blå,2021-02-19,Kia,E-Niro,289800,Örebro
+152,5307.0,2021,SUV,Tvåhjulsdriven,204,Blå,2021-03-30,Kia,E-Niro,298900,Örebro
+153,3197.0,2021,SUV,Tvåhjulsdriven,204,Grå,2021-03-24,Kia,E-Niro,318900,Örebro
+155,1291.0,2023,Halvkombi,Tvåhjulsdriven,218,Vit,2023-01-31,Renault,Mégane,369800,Örebro
+156,645.0,2023,Yrkesfordon,Tvåhjulsdriven,123,Vit,2022-08-30,Renault,Kangoo,339800,Örebro
+157,1288.0,2022,Halvkombi,Tvåhjulsdriven,136,,2021-10-29,Renault,Zoe,209800,Örebro
+158,2208.0,2021,Halvkombi,Tvåhjulsdriven,136,Vit,2020-12-16,Renault,Zoe,209800,Örebro
+159,1107.0,2023,Halvkombi,Tvåhjulsdriven,136,Svart,2022-11-25,Renault,Zoe,239800,Örebro
+160,3306.0,2021,Halvkombi,Tvåhjulsdriven,109,Vit ,2020-12-30,Renault,Zoe,199800,Örebro
+161,2773.0,2021,Halvkombi,Tvåhjulsdriven,109,Vit,2020-12-30,Renault,Zoe,199800,Örebro
+162,3957.0,2021,Halvkombi,Tvåhjulsdriven,136,Vit,2021-04-09,Renault,Zoe,234800,Örebro
+163,4767.0,2019,Halvkombi,Tvåhjulsdriven,184,Ljusbrun,2019-02-21,BMW,i3s,228700,Örebro
+164,598.0,2023,Sedan,Fyrhjulsdriven,544,Svart,2023-04-28,BMW,i7,1729900,Örebro
+165,1960.0,2022,SUV,Fyrhjulsdriven,524,Vit,2022-03-15,BMW,iX,919000,Örebro
+166,3450.0,2022,SUV,Fyrhjulsdriven,524,Grå,2022-03-09,BMW,iX,899000,Örebro
+167,1950.0,2022,Halvkombi,Tvåhjulsdriven,170,Silver,2021-12-30,BMW,i3,269000,Örebro
+168,4503.0,2019,Halvkombi,Tvåhjulsdriven,170,Svart,2019-03-22,BMW,i3,269900,Örebro
+169,950.0,2021,Halvkombi,Tvåhjulsdriven,184,Vit,2021-09-30,BMW,i3,299000,Örebro
+170,0.0,2024,Sedan,Fyrhjulsdriven,313,Grå,,BMW,iX2,862700,Örebro
+171,4432.0,2021,Halvkombi,Tvåhjulsdriven,143,Vit,2021-06-30,MG,ZS,199800,Örebro
+172,4528.0,2020,Halvkombi,Tvåhjulsdriven,143,Svart,2021-06-28,MG,ZS,199900,Örebro
+173,3950.0,2020,Halvkombi,Tvåhjulsdriven,143,Blå,2021-09-30,MG,ZS,184800,Örebro
+174,1999.0,2020,Halvkombi,Tvåhjulsdriven,143,Svart,2021-06-28,MG,ZS,219900,Örebro
+175,7985.0,2021,Kombi,Tvåhjulsdriven,136,Grå,2021-04-01,Peugeot,e-2008,259400,Örebro
+176,2947.0,2021,Halvkombi,Fyrhjulsdriven,289,Svart,2022-03-08,MG,R,369900,Örebro
+177,2777.0,2022,Halvkombi,Tvåhjulsdriven,150,Vit,2022-03-09,Nissan,Leaf,234000,Örebro
+178,1400.0,2023,Halvkombi,Tvåhjulsdriven,136,Blå,2023-03-23,Peugeot,E-208,299500,Örebro
+179,7400.0,2020,SUV,Tvåhjulsdriven,204,Grå,2020-12-07,Hyundai,Kona,274800,Örebro
+181,1056.0,2023,SUV,Fyrhjulsdriven,585,Vit,2023-04-06,Kia,EV6,689900,Uppsala
+182,11700.0,2017,Halvkombi,Tvåhjulsdriven,109,Brun,2017-03-31,Nissan,Leaf,134800,Uppsala
+183,9891.0,2018,Sedan,Fyrhjulsdriven,525,Svart,2019-02-22,Tesla,Model S,339900,Uppsala
+184,1150.0,2023,Kombi,Tvåhjulsdriven,204,Grå,2023-03-29,Volkswagen,ID.4,429000,Uppsala
+185,712.0,2023,SUV,Tvåhjulsdriven,234,Röd,2022-11-30,Volvo,C40,449500,Uppsala
+186,4766.0,2022,Halvkombi,Fyrhjulsdriven,289,Svart,2022-04-28,MG,R,349900,Uppsala
+187,4034.0,2021,Kombi,Tvåhjulsdriven,204,Grå,2021-04-01,Volkswagen,ID.3,269000,Uppsala
+188,5869.0,2021,Kombi,Tvåhjulsdriven,204,Grå,2021-03-23,Volkswagen,ID.3,259000,Uppsala
+189,3950.0,2023,Kombi,Fyrhjulsdriven,300,Svart,2023-03-07,Volkswagen,ID.5,559500,Uppsala
+190,6088.0,2017,Halvkombi,Tvåhjulsdriven,89,Vit,2016-12-02,Renault,Zoe,79700,Uppsala
+191,5400.0,2022,SUV,Fyrhjulsdriven,414,Silver,2022-03-21,Audi,E-Tron,579900,Uppsala
+192,579.0,2024,Sedan,Fyrhjulsdriven,601,Grå,2023-10-05,BMV,i5,1138700,Uppsala
+193,4191.0,2021,Familjebuss,Tvåhjulsdriven,204,Grå,2021-10-28,Maxus,Euniq,299800,Uppsala
+194,5970.0,2021,Halvkombi,Tvåhjulsdriven,218,Röd,2021-09-14,Nissan,Leaf,239800,Uppsala
+195,3784.0,2021,SUV,Tvåhjulsdriven,204,Vit,2021-03-31,Kia,E-Niro,289000,Uppsala
+196,11879.0,2017,Halvkombi,Fyrhjulsdriven,334,Vit,2017-12-06,Tesla,Model S,324900,Uppsala
+197,2002.0,2023,Familjebuss,Tvåhjulsdriven,204,Flerfärgad,2022-11-08,Volkswagen,ID.Buzz,562900,Uppsala
+198,1265.0,2020,SUV,Fyrhjulsdriven,408,Vit,2019-12-16,Audi,E-Tron,579900,Uppsala
+199,0.0,2024,Sedan,Fyrhjulsdriven,483,Svart,,Audi,E-Tron,1399595,Uppsala
+200,0.0,2024,SUV,Fyrhjulsdriven,414,Grå,,Audi,Q8,994900,Uppsala
+201,0.0,2024,SUV,Fyrhjulsdriven,414,Grå,,Audi,Q8,1026963,Uppsala
+202,,2024,SUV,Tvåhjulsdriven,286,Svart,2024-03-05,Audi,Q4,777900,Uppsala
+203,,2024,SUV,Fyrhjulsdriven,340,Grå,,Audi,Q4,699900,Uppsala
+204,0.0,2024,SUV,Fyrhjulsdriven,414,Grå,,Audi,Q8,879900,Uppsala
+205,0.0,2023,SUV,,408,,,Audi,Q8,1027000,Uppsala
+206,,2024,SUV,Fyrhjulsdriven,408,Svart,,Audi,Q8,1124100,Uppsala
+207,4218.0,2021,SUV,Tvåhjulsdriven,204,Vit,2021-03-15,Kia,E-Niro,289000,Uppsala
+208,2495.0,2022,Coupe,Fyrhjulsdriven,599,Svart,2022-08-23,Porsche,Taycan,1195000,Uppsala
+209,404.0,2024,Sedan,Tvåhjulsdriven,340,Svart,2023-06-28,BMV,i4,658700,Uppsala
+210,1270.0,2022,SUV,Tvåhjulsdriven,136,Röd,2022-07-15,Hyundai,Kona,259900,Uppsala
+211,5500.0,2020,Halvkombi,Tvåhjulsdriven,136,Vit,2020-01-31,Volkswagen,E-Golf,229000,Uppsala
+212,890.0,2023,Halvkombi,Tvåhjulsdriven,204,Mörkröd,2023-03-29,Volkswagen,ID.3,374000,Uppsala
+213,3028.0,2022,Halvkombi,Tvåhjulsdriven,150,Vit,2021-12-30,Nissan,Leaf,198900,Uppsala
+214,1095.0,2023,Kombi,Fyrhjulsdriven,476,Silver,2023-08-02,Porsche,Taycan,1075000,Uppsala
+215,8950.0,2022,SUV,Fyrhjulsdriven,414,Grå,2021-12-30,Audi,E-Tron,599900,Uppsala
+216,4300.0,2021,SUV,Fyrhjulsdriven,414,Svart,2021-05-11,Audi,E-Tron,519000,Uppsala
+217,2640.0,2023,SUV,Tvåhjulsdriven,204,Svart,2022-11-24,Kia,Niro,399000,Uppsala
+218,2602.0,2022,Halvkombi,Tvåhjulsdriven,150,Blå,2022-03-24,Nissan,Leaf,219900,Uppsala
+219,5216.0,2017,Halvkombi,Tvåhjulsdriven,170,Svart,2017-10-05,BMW,i3,179900,Uppsala
+220,6276.0,2018,Halvkombi,Fyrhjulsdriven,762,Grå,2018-11-28,Tesla,Model S,524900,Uppsala
